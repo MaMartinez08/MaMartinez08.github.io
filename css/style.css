@@ -41,7 +41,7 @@
     }
 
     .navigation li:hover {
-      background-color: #F26101;
+      background-color:rgb(255,12,12);
     }
     
     .active {
